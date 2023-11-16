@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poojakarthikeyan12
-- 👀 I’m interested in electronics and coding
-- 🌱 I’m currently learning arduino
+- 👀 I’m interested in coding and learning
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me poojakathikeyan@gmail.com
 
