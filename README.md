@@ -1,6 +1,10 @@
-![Header](![github-header-image](https://github.com/poojakarthikeyan12/poojakarthikeyan12/assets/93426710/c9426a13-51bf-46d7-9609-e004bc877688)
-)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm pooja</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojakarthikeyan12&label=Profile%20views&color=0e75b6&style=flat" alt="poojakarthikeyan12" /> </p>
@@ -11,7 +15,7 @@
 
 - 📫 How to reach me **poojakathikeyan@gmail.com**
 
-- ⚡ Fun fact **I think .... more**
+- ⚡ Fun fact **Listening to podcast and coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
